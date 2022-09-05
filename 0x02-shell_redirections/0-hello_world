@@ -1,2 +1,2 @@
-#!/bin/bash
-Hello, World | cat -e
+Hello, World
+./0-hello_world | cat -e
