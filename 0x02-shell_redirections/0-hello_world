@@ -1,2 +1,1 @@
-Hello, World
-cat -e
+Hello, World\ncat -e
